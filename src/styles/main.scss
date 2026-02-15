@@ -1,0 +1,12 @@
+[aria-label="Apps"] {
+  gap: 3px;
+  button,
+  .fui-Button__icon {
+    height: unset;
+    width: unset;
+    min-height: unset;
+    min-width: unset;
+    max-height: unset;
+    max-width: unset;
+  }
+}
